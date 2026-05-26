@@ -12,6 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=pdrokbott&label=Profile%20views&color=3ECF8E&style=for-the-badge" alt="views" />
 <a href="mailto:pedroantoniooliveir@gmail.com"><img src="https://img.shields.io/badge/OPEN%20TO%20WORK-3ECF8E?style=for-the-badge&logo=briefcase&logoColor=white" alt="open to work" /></a>
 <img src="https://img.shields.io/badge/Porto%20Velho%20·%20RO-0d1117?style=for-the-badge&logo=googlemaps&logoColor=3ECF8E" alt="location" />
+<img src="https://img.shields.io/badge/Pós%20em%20Ciência%20de%20Dados%20·%20UTFPR-0d1117?style=for-the-badge&logo=googlescholar&logoColor=3ECF8E" alt="data science" />
 
 </div>
 
@@ -27,7 +28,8 @@ $ pedro --about
 
 ```
 philosophy  ::  Requisitos → Arquitetura → Código
-domínio     ::  IoT industrial · automação · sistemas embarcados · full stack
+domínio     ::  IoT industrial · automação · sistemas embarcados · full stack · ciência de dados
+estudando   ::  Pós-graduação em Ciência de Dados @ UTFPR
 mindset     ::  problem-first · ship-fast · zero-hype
 fuel        ::  ☕ + 🌾
 ```
@@ -35,6 +37,7 @@ fuel        ::  ☕ + 🌾
 ## `~/` formação & certificações · education & certs
 
 ```
+🎓  Pós-graduação em Ciência de Dados — UTFPR (Univ. Tecnológica Federal do Paraná) · em andamento
 🎓  Engenharia Mecatrônica — Centro Universitário Aparício Carvalho (Porto Velho/RO) · 2019–2023
 📜  Cambridge KET B1 — English Proficiency
 📜  Especialização em Automação Industrial
@@ -160,6 +163,14 @@ Análise fiscal para o **Simples Nacional**: detecta inconsistências de receita
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Ciência de Dados & Análise**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **IoT, Embarcados & Automação**
 
