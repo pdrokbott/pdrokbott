@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" fill="none" role="img" aria-label="Do campo ao codigo - footer">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#06281f"/>
+      <stop offset="55%" stop-color="#0d1b2a"/>
+      <stop offset="100%" stop-color="#0b1120"/>
+    </linearGradient>
+    <linearGradient id="fem" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3ECF8E"/>
+      <stop offset="100%" stop-color="#2bb673"/>
+    </linearGradient>
+    <filter id="fg" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="fcard"><rect x="0" y="0" width="900" height="180" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#fcard)">
+    <rect width="900" height="180" fill="url(#fbg)"/>
+
+    <!-- animated wave bands -->
+    <path fill="#0e3a2a" opacity="0.7">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite"
+        values="M0 120 Q225 90 450 118 T900 112 L900 180 L0 180 Z;
+                M0 118 Q225 132 450 104 T900 122 L900 180 L0 180 Z;
+                M0 120 Q225 90 450 118 T900 112 L900 180 L0 180 Z"/>
+    </path>
+    <path fill="#0b2c20" opacity="0.9">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="M0 140 Q225 116 450 142 T900 134 L900 180 L0 180 Z;
+                M0 138 Q225 156 450 128 T900 146 L900 180 L0 180 Z;
+                M0 140 Q225 116 450 142 T900 134 L900 180 L0 180 Z"/>
+    </path>
+
+    <!-- twinkle stars -->
+    <g fill="#9bd9c0">
+      <circle cx="120" cy="38" r="1.2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="760" cy="30" r="1.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.6s" repeatCount="indefinite"/></circle>
+      <circle cx="640" cy="52" r="1"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="4.2s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- prompt + tagline -->
+    <text x="450" y="62" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#3ECF8E">$ pedro --signoff</text>
+    <text x="450" y="98" text-anchor="middle" font-family="Fira Code, monospace" font-weight="700" font-size="26" fill="#ffffff">Do campo ao código</text>
+    <text x="450" y="124" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#9bd9c0">Eu não escrevo software — eu resolvo problemas.</text>
+
+    <!-- blinking cursor -->
+    <rect x="660" y="52" width="9" height="14" fill="#3ECF8E"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+
+    <!-- accent bar -->
+    <rect x="0" y="176" width="900" height="4" fill="url(#fem)"/>
+  </g>
+</svg>
