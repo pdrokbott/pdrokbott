@@ -1,18 +1,18 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  github.com/pdrokbott                                         ║ -->
 <!-- ║  Profile README — terminal edition · #3ECF8E on #0d1117      ║ -->
-<!-- ║  hero · divider · footer = SVGs autorais animados            ║ -->
+<!-- ║  hero · pipeline · divider · footer = SVGs autorais animados ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- ▸▸▸ HERO SVG (autoral) ▸▸▸ -->
 <div align="center">
 
 <a href="https://github.com/pdrokbott">
-  <img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/hero.svg" alt="Pedro Antônio — Engenheiro Mecatrônico · Full Stack · do campo ao código" width="100%" />
+  <img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/hero.svg" alt="Pedro Antônio — Engenheiro Mecatrônico · Full Stack · do código ao mundo real" width="100%" />
 </a>
 
 <!-- ▸▸▸ TYPING ACCENT ▸▸▸ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=3ECF8E&center=true&vCenter=true&width=720&height=46&lines=Engenheiro+Mecatr%C3%B4nico+%2B+Full+Stack+Developer;Sensores+%E2%86%92+dados+%E2%86%92+dashboards+%E2%86%92+decis%C3%B5es;Do+ch%C3%A3o+de+f%C3%A1brica+ao+PWA+offline+no+pasto;I+don't+write+software+%E2%80%94+I+solve+problems.)](https://github.com/pdrokbott)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=3ECF8E&center=true&vCenter=true&width=760&height=46&lines=Engenheiro+Mecatr%C3%B4nico+%2B+Full+Stack+Developer;Levo+c%C3%B3digo+ao+mundo+real+%E2%80%94+ind%C3%BAstria%2C+IoT%2C+automa%C3%A7%C3%A3o;C%C3%B3digo+que+vira+m%C3%A1quina+rodando%2C+dashboard%2C+decis%C3%A3o;I+don't+write+software+%E2%80%94+I+solve+problems.)](https://github.com/pdrokbott)
 
 <!-- ▸▸▸ STATUS BADGES ▸▸▸ -->
 <img src="https://komarev.com/ghpvc/?username=pdrokbott&label=Profile%20views&color=3ECF8E&style=for-the-badge" alt="views" />
@@ -27,24 +27,24 @@
 ```
 ╭────────────────────────────────────────────────────────────────────────────────╮
 │                                                                                │
-│  pedro@ranch ❯ whoami                                                          │
+│  pedro@dev ❯ whoami                                                            │
 │                                                                                │
-│  Engenheiro Mecatrônico de formação · Full Stack Developer.                    │
-│  Especialista em sistemas de supervisão industrial e IoT.                      │
-│  Pecuarista — sinto o problema antes de escrever a primeira linha.             │
+│  Engenheiro Mecatrônico + Full Stack Developer.                                │
+│  Eu transformo código em sistemas que funcionam no mundo real:                 │
+│  supervisão industrial, IoT, automação e dashboards de dados.                  │
 │                                                                                │
-│  Eu ligo o mundo físico ao software: sensores, ESP32/LoRa, MQTT e              │
-│  ThingsBoard virando dashboards e decisões. Do chão de fábrica ao              │
-│  PWA offline no meio do pasto — porque lá não tem 4G.                          │
+│  pedro@dev ❯ cat manifesto.txt                                                 │
 │                                                                                │
-│  pedro@ranch ❯ cat philosophy.txt                                             │
+│  ▸ Levo código aonde ele raramente chega — do chão de fábrica ao campo.        │
+│  ▸ Hardware e software na mesma cabeça: fecho a ponte física↔digital           │
+│    que poucos devs dominam.                                                     │
+│  ▸ Fecho os requisitos antes de arquitetar.                                    │
 │                                                                                │
-│  ▸ Requisitos → Arquitetura → Código                                          │
-│  ▸ problem-first · ship-fast · zero-hype                                       │
-│  ▸ fecho os requisitos antes de arquitetar                                     │
+│  pedro@dev ❯ echo $PHILOSOPHY                                                  │
+│  Requisitos → Arquitetura → Código → Mundo real                                │
 │                                                                                │
-│  pedro@ranch ❯ echo $FUEL                                                     │
-│  ☕ + 🌾                                                                        │
+│  pedro@dev ❯ echo $MINDSET                                                     │
+│  problem-first · ship-fast · zero-hype · ☕                                     │
 │                                                                                │
 ╰────────────────────────────────────────────────────────────────────────────────╯
 ```
@@ -93,7 +93,7 @@
 </td>
 <td align="center" width="225">
 
-**`// design & infra`**
+**`// dev & infra`**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=git,linux,bootstrap&theme=dark&perline=3" height="44" />
 <br/>
@@ -126,11 +126,11 @@
 <br/>
 
 ```text
-HARDWARE ↔ SOFTWARE   ███████████████████░  95%   ESP32 · LoRa · sensores · CLPs · RS485
-IoT & SUPERVISÃO       ██████████████████░░  90%   ThingsBoard · MQTT · telemetria real-time
-VISÃO DE PRODUTO       ███████████████████░  95%   requisitos · fiscal/BR · UX · negócio
-FULL STACK WEB         █████████████████░░░  85%   React · Node · Supabase · PWA offline-first
-CIÊNCIA DE DADOS       ██████████████░░░░░░  70%   Python · Pandas · NumPy · análise de variáveis
+ENGENHARIA DE SOFTWARE  ███████████████████░  95%   arquitetura · full stack · APIs · produto
+HARDWARE ↔ SOFTWARE     ███████████████████░  95%   ESP32 · firmware · sensores · CLPs · RS485
+IoT & SUPERVISÃO         ██████████████████░░  90%   ThingsBoard · MQTT · telemetria real-time
+WEB & BACK-END           █████████████████░░░  85%   React · Node · Supabase · PWA
+CIÊNCIA DE DADOS         ██████████████░░░░░░  70%   Python · Pandas · NumPy · dashboards
 ```
 
 </details>
@@ -151,7 +151,7 @@ class PedroAntonio:
 
     role      = "Eng. Mecatrônico + Full Stack Developer"
     location  = "Porto Velho, Rondônia — Brasil"
-    rancher   = True  # pecuarista · do campo ao código
+    domains   = ["indústria", "IoT", "automação", "dados", "agro"]
     edu       = ["Eng. Mecatrônica (Aparício Carvalho · 2019–2023)",
                  "Pós-grad. Ciência de Dados (UTFPR · em andamento)"]
     portfolio = "https://portfolio-tan-ten-22.vercel.app/"  # com @VgavaBR123
@@ -163,8 +163,8 @@ class PedroAntonio:
             "status": "🟢 produção",
         },
         "esp32_lora": {
-            "desc": "Comunicação wireless de sensores a longa distância",
-            "tech": ["ESP32", "LoRa", "Sensores"],
+            "desc": "Firmware e comunicação wireless de sensores a longa distância",
+            "tech": ["ESP32", "LoRa", "C/C++"],
             "status": "🟢 produção",
         },
         "energia_monitor": {
@@ -173,7 +173,7 @@ class PedroAntonio:
             "status": "🟢 produção",
         },
         "controle_de_gado": {
-            "desc": "Gestão de rebanho — RFID/Bluetooth + PWA offline-first",
+            "desc": "App de gestão — RFID/Bluetooth + PWA offline-first",
             "tech": ["PWA", "RFID", "Supabase"],
             "status": "🐂 autoral",
         },
@@ -190,7 +190,7 @@ class PedroAntonio:
     }
 
     def __repr__(self):
-        return "do campo ao código — shipping real products 🚀"
+        return "do código ao mundo real — shipping real systems 🚀"
 ```
 
 <div align="center"><img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/divider.svg" width="100%" alt="divider" /></div>
@@ -205,7 +205,9 @@ class PedroAntonio:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/pipeline.svg" width="100%" alt="Pipeline do campo ao código: sensores → ESP32/LoRa → MQTT → ThingsBoard → decisões" />
+<img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/pipeline.svg" width="100%" alt="Do código ao mundo real: código → ESP32/LoRa → MQTT → ThingsBoard → decisões" />
+
+<sub>como o código vira decisão: <b>código</b> → firmware (ESP32/LoRa) → MQTT → ThingsBoard → <b>decisões</b></sub>
 
 </div>
 
@@ -234,11 +236,11 @@ Monitoramento de máquinas industriais com integração à **Campilar**. Telemet
 <td width="50%" valign="top">
 
 ### 📡 ESP32 & LoRa
-Comunicação **wireless de sensores** a longa distância para ambientes industriais e de campo.
+**Firmware** e comunicação wireless de sensores a longa distância para ambientes industriais.
 
 ![ESP32](https://img.shields.io/badge/-ESP32-0d1117?style=flat-square&logo=espressif&logoColor=3ECF8E)
 ![LoRa](https://img.shields.io/badge/-LoRa-0d1117?style=flat-square&logoColor=3ECF8E)
-![Sensors](https://img.shields.io/badge/-Sensors-0d1117?style=flat-square&logoColor=3ECF8E)
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=3ECF8E)
 
 </td>
 </tr>
@@ -267,7 +269,7 @@ Dashboard e **análise de medidores de energia** — leitura e interpretação d
 <td width="50%" valign="top">
 
 ### 🐂 Controle de Gado · autoral
-Gestão de rebanho com leitura **RFID via Bluetooth**, **sessões de manejo flexíveis** e **PWA offline-first** — porque no pasto não tem 4G.
+App de gestão de rebanho com leitura **RFID via Bluetooth**, **sessões de manejo flexíveis** e **PWA offline-first** — código que funciona até sem 4G.
 
 ![PWA](https://img.shields.io/badge/-PWA-0d1117?style=flat-square&logo=pwa&logoColor=3ECF8E)
 ![Offline](https://img.shields.io/badge/-Offline--first-0d1117?style=flat-square&logoColor=3ECF8E)
@@ -408,11 +410,11 @@ Programas de **apoio à fiscalização** e análise de conformidade tributária 
 </h2>
 
 ```diff
-+ 🔌 Hardware + software        —  fecho a ponte física↔digital que poucos devs dominam
-+ 🎯 Foco em problema, não hype —  entrego o que o usuário precisa, no prazo
-+ 🧩 Visão de produto           —  penso negócio, fiscal, UX e infra, não só a feature
-+ 🌾 Resiliência do campo       —  autonomia, mão na massa, sem medo de problema difícil
-+ 🚢 Eu envio                   —  produtos reais no ar, não só TODOs
++ 🔌 Hardware + software   —  fecho a ponte física↔digital que poucos devs dominam
++ 🏭 Mundo real            —  código que vira máquina rodando, não só tela
++ 🎯 Foco em problema      —  entrego o que o usuário precisa, no prazo
++ 🧩 Visão de produto      —  penso negócio, fiscal, UX e infra, não só a feature
++ 🚢 Eu envio              —  produtos reais no ar, não só TODOs
 ```
 
 <div align="center"><img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/divider.svg" width="100%" alt="divider" /></div>
@@ -455,6 +457,6 @@ Programas de **apoio à fiscalização** e análise de conformidade tributária 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/footer.svg" width="100%" alt="Do campo ao código — eu não escrevo software, eu resolvo problemas" />
+<img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/footer.svg" width="100%" alt="Do código ao mundo real — eu não escrevo software, eu resolvo problemas" />
 
 </div>

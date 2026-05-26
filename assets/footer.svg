@@ -42,7 +42,7 @@
 
     <!-- prompt + tagline -->
     <text x="450" y="62" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#3ECF8E">$ pedro --signoff</text>
-    <text x="450" y="98" text-anchor="middle" font-family="Fira Code, monospace" font-weight="700" font-size="26" fill="#ffffff">Do campo ao código</text>
+    <text x="450" y="98" text-anchor="middle" font-family="Fira Code, monospace" font-weight="700" font-size="26" fill="#ffffff">Do código ao mundo real</text>
     <text x="450" y="124" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#9bd9c0">Eu não escrevo software — eu resolvo problemas.</text>
 
     <!-- blinking cursor -->
