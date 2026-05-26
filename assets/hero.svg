@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" fill="none" role="img" aria-label="Pedro - Full Stack Developer - do campo ao codigo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="55%" stop-color="#0d1b2a"/>
+      <stop offset="100%" stop-color="#06281f"/>
+    </linearGradient>
+    <linearGradient id="emerald" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3ECF8E"/>
+      <stop offset="100%" stop-color="#2bb673"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffd27a"/>
+      <stop offset="100%" stop-color="#ff9d2f"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="card"><rect x="0" y="0" width="900" height="300" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="900" height="300" fill="url(#bg)"/>
+
+    <!-- starfield -->
+    <g fill="#9bd9c0">
+      <circle cx="120" cy="40" r="1.2" opacity="0.6"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="300" cy="30" r="1" opacity="0.4"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="500" cy="55" r="1.4" opacity="0.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
+      <circle cx="780" cy="35" r="1" opacity="0.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.5s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- sun -->
+    <circle cx="150" cy="120" r="34" fill="url(#sun)" filter="url(#glow)" opacity="0.9">
+      <animate attributeName="cy" values="120;112;120" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- rolling hills -->
+    <path d="M0 230 Q130 180 260 215 T520 210 L520 300 L0 300 Z" fill="#0e3a2a"/>
+    <path d="M0 250 Q160 210 320 245 T620 240 L620 300 L0 300 Z" fill="#0b2c20"/>
+
+    <!-- fence -->
+    <g stroke="#1f5d44" stroke-width="3">
+      <line x1="40" y1="232" x2="40" y2="262"/>
+      <line x1="78" y1="230" x2="78" y2="260"/>
+      <line x1="116" y1="232" x2="116" y2="262"/>
+      <line x1="30" y1="240" x2="126" y2="238"/>
+      <line x1="30" y1="252" x2="126" y2="250"/>
+    </g>
+
+    <!-- cow with pulsing RFID tag -->
+    <g transform="translate(190 222)">
+      <ellipse cx="22" cy="20" rx="26" ry="14" fill="#e8edf2"/>
+      <path d="M6 14 q6 -10 14 -2 q6 -8 14 0" fill="#1b2733"/>
+      <ellipse cx="6" cy="18" rx="7" ry="6" fill="#e8edf2"/>
+      <rect x="2" y="22" width="3" height="10" fill="#1b2733"/>
+      <rect x="40" y="22" width="3" height="10" fill="#1b2733"/>
+      <!-- RFID tag -->
+      <circle cx="10" cy="8" r="3.5" fill="#3ECF8E"/>
+      <circle cx="10" cy="8" r="3.5" fill="none" stroke="#3ECF8E" stroke-width="1.5">
+        <animate attributeName="r" values="3.5;14;3.5" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.9;0;0.9" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- data pulse traveling field -> terminal -->
+    <path id="wire" d="M205 224 C300 180, 360 160, 470 150" stroke="#3ECF8E" stroke-width="1.5" stroke-dasharray="4 5" opacity="0.5" fill="none"/>
+    <circle r="3.5" fill="#3ECF8E" filter="url(#glow)">
+      <animateMotion dur="2.4s" repeatCount="indefinite" rotate="auto" keyPoints="0;1" keyTimes="0;1" calcMode="linear" path="M205 224 C300 180, 360 160, 470 150"/>
+    </circle>
+
+    <!-- terminal window -->
+    <g transform="translate(470 90)">
+      <rect x="0" y="0" width="400" height="150" rx="10" fill="#0a0f1a" stroke="#1f5d44" stroke-width="1.5"/>
+      <rect x="0" y="0" width="400" height="26" rx="10" fill="#11203a"/>
+      <rect x="0" y="16" width="400" height="10" fill="#11203a"/>
+      <circle cx="16" cy="13" r="4" fill="#ff5f56"/>
+      <circle cx="32" cy="13" r="4" fill="#ffbd2e"/>
+      <circle cx="48" cy="13" r="4" fill="#27c93f"/>
+      <text x="200" y="17" text-anchor="middle" font-family="Fira Code, monospace" font-size="10" fill="#5b7083">pedro@ranch:~</text>
+
+      <!-- typed lines revealed by expanding clip -->
+      <g font-family="Fira Code, monospace" font-size="13">
+        <text x="16" y="52" fill="#3ECF8E">$ whoami</text>
+        <text x="16" y="74" fill="#e6edf3">&gt; Full Stack Developer</text>
+        <text x="16" y="96" fill="#e6edf3">&gt; <tspan fill="#ffbd2e">pecuarista</tspan> &amp; builder</text>
+        <text x="16" y="118" fill="#3ECF8E">$ ship --products _<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
+        <clipPath id="type"><rect x="0" y="32" width="0" height="100"><animate attributeName="width" values="0;400" dur="3.2s" begin="0.3s" fill="freeze" calcMode="linear"/></rect></clipPath>
+      </g>
+    </g>
+    <use href="#wire" clip-path="url(#type)"/>
+
+    <!-- title block -->
+    <text x="40" y="80" font-family="Fira Code, monospace" font-weight="700" font-size="44" fill="#ffffff">PEDRO</text>
+    <text x="42" y="106" font-family="Fira Code, monospace" font-size="15" fill="url(#emerald)">do campo ao código · from ranch to code</text>
+    <rect x="42" y="118" width="0" height="2" fill="#3ECF8E"><animate attributeName="width" values="0;300" dur="1.4s" begin="0.5s" fill="freeze"/></rect>
+
+    <!-- bottom border accent -->
+    <rect x="0" y="296" width="900" height="4" fill="url(#emerald)"/>
+  </g>
+</svg>
