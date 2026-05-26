@@ -203,30 +203,11 @@ class PedroAntonio:
   <img src="https://img.shields.io/badge/◆-0d1117?style=flat-square&labelColor=0d1117" height="16"/>
 </h2>
 
-```
-        ╔══════════════════════════════════════════════════════════════╗
-        ║              DO CAMPO AO CÓDIGO — DATA PIPELINE              ║
-        ╚══════════════════════════════════════════════════════════════╝
+<div align="center">
 
-  ┌──────────┐    ┌──────────┐    ┌─────────┐    ┌────────────┐    ┌────────────┐
-  │ Sensores │───▸│  ESP32 / │───▸│  MQTT   │───▸│ ThingsBoard│───▸│ Dashboards │
-  │  · CLPs  │    │   LoRa   │    │  broker │    │  telemetria│    │ + decisões │
-  └──────────┘    └──────────┘    └─────────┘    └─────┬──────┘    └────────────┘
-                                                       │
-                              ┌────────────────────────┴───────────┐
-                              │                                      │
-                        ┌─────▾──────┐                       ┌──────▾──────┐
-                        │  Análise   │                       │  PWA campo  │
-                        │ Python·Pd  │                       │ RFID·offline│
-                        └─────┬──────┘                       └──────┬──────┘
-                              │                                      │
-                              └──────────────┬───────────────────────┘
-                                             │
-                                      ┌──────▾───────┐
-                                      │   Pecuarista  │
-                                      │  🌾  📡  📊   │
-                                      └──────────────┘
-```
+<img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/pipeline.svg" width="100%" alt="Pipeline do campo ao código: sensores → ESP32/LoRa → MQTT → ThingsBoard → decisões" />
+
+</div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/divider.svg" width="100%" alt="divider" /></div>
 
