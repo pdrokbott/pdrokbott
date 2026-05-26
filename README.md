@@ -238,23 +238,13 @@ IDIOMAS ────────────────────────
 <div align="center">
 
 <a href="https://github.com/pdrokbott">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pdrokbott&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=3ECF8E&icon_color=3ECF8E&text_color=8b949e&ring_color=3ECF8E&custom_title=stats%20//%20pdrokbott" alt="stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/pdrokbott">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrokbott&layout=compact&hide_border=true&bg_color=00000000&title_color=3ECF8E&text_color=8b949e&langs_count=8&custom_title=linguagens%20//%20top%208" alt="top langs" />
+  <img src="https://streak-stats.demolab.com?user=pdrokbott&hide_border=true&background=0d1117&border=1f5d44&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=1f5d44" alt="contribution streak" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/pdrokbott">
-  <img src="https://streak-stats.demolab.com?user=pdrokbott&hide_border=true&background=00000000&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E&sideLabels=2bb673&currStreakNum=e6edf3&sideNums=e6edf3&dates=3b4048" alt="streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/pdrokbott">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pdrokbott&bg_color=0d1117&color=3ECF8E&line=3ECF8E&point=ffffff&area_color=0e4429&area=true&hide_border=true&custom_title=contribui%C3%A7%C3%B5es%20//%20%C3%BAltimos%2031%20dias" alt="activity graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pdrokbott&bg_color=0d1117&color=3ECF8E&line=3ECF8E&point=ffffff&area_color=0e4429&area=true&hide_border=true&custom_title=contribui%C3%A7%C3%B5es%20//%20%C3%BAltimo%20ano" alt="activity graph" />
 </a>
 
 </div>
@@ -267,13 +257,6 @@ IDIOMAS ────────────────────────
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pdrokbott/pdrokbott/output/github-snake.svg" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
-<!-- ▸▸▸ TROPHIES ▸▸▸ -->
-<div align="center">
-
-[![trophies](https://github-profile-trophy.vercel.app/?username=pdrokbott&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=8&title=Stars,Commits,Repositories,MultipleLang,PullRequest,Issues,Followers)](https://github.com/pdrokbott)
 
 </div>
 
