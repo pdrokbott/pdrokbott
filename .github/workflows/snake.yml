@@ -19,6 +19,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Token pessoal (PAT) para enxergar contribuições PRIVADAS.
+          # Sem ele, a Action usa o token genérico e só vê repos públicos.
+          github_token: ${{ secrets.SNAKE_GH_TOKEN }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#3ECF8E
