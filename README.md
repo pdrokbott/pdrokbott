@@ -182,9 +182,9 @@ class PedroAntonio:
             "tech": ["OCR", "Healthtech"],
             "status": "💊 autoral",
         },
-        "malha_sublimite": {
-            "desc": "Análise fiscal p/ Simples Nacional — limites de receita",
-            "tech": ["Fintech", "Data", "BR Tax"],
+        "ferramentas_fiscais": {
+            "desc": "Apoio à fiscalização e conformidade tributária",
+            "tech": ["Data", "Compliance", "Fintech"],
             "status": "🧾 autoral",
         },
     }
@@ -317,12 +317,12 @@ CLI que automatiza **posts no Instagram + ads direcionados**. Marketing que roda
 </td>
 <td width="50%" valign="top">
 
-### 🧾 Malha Sublimite · autoral
-Análise fiscal para o **Simples Nacional**: detecta inconsistências de receita p/ manter a empresa nos limites legais.
+### 🧾 Ferramentas Fiscais · autoral
+Programas de **apoio à fiscalização** e análise de conformidade tributária — processamento e cruzamento de dados fiscais.
 
 ![Fintech](https://img.shields.io/badge/-Fintech-0d1117?style=flat-square&logoColor=3ECF8E)
 ![Data](https://img.shields.io/badge/-Data-0d1117?style=flat-square&logo=pandas&logoColor=3ECF8E)
-![BR Tax](https://img.shields.io/badge/-BR%20Tax-0d1117?style=flat-square&logoColor=3ECF8E)
+![Compliance](https://img.shields.io/badge/-Compliance-0d1117?style=flat-square&logoColor=3ECF8E)
 
 </td>
 </tr>
