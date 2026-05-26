@@ -24,29 +24,25 @@
 
 <!-- ▸▸▸ ABOUT — terminal style ▸▸▸ -->
 
-```
-╭────────────────────────────────────────────────────────────────────────────────╮
-│                                                                                │
-│  pedro@dev ❯ whoami                                                            │
-│                                                                                │
-│  Engenheiro Mecatrônico + Full Stack Developer.                                │
-│  Eu transformo código em sistemas que funcionam no mundo real:                 │
-│  supervisão industrial, IoT, automação e dashboards de dados.                  │
-│                                                                                │
-│  pedro@dev ❯ cat manifesto.txt                                                 │
-│                                                                                │
-│  ▸ Levo código aonde ele raramente chega — do chão de fábrica ao campo.        │
-│  ▸ Hardware e software na mesma cabeça: fecho a ponte física↔digital           │
-│    que poucos devs dominam.                                                     │
-│  ▸ Fecho os requisitos antes de arquitetar.                                    │
-│                                                                                │
-│  pedro@dev ❯ echo $PHILOSOPHY                                                  │
-│  Requisitos → Arquitetura → Código → Mundo real                                │
-│                                                                                │
-│  pedro@dev ❯ echo $MINDSET                                                     │
-│  problem-first · ship-fast · zero-hype · ☕                                     │
-│                                                                                │
-╰────────────────────────────────────────────────────────────────────────────────╯
+```ansi
+pedro@dev ❯ whoami
+
+Engenheiro Mecatrônico + Full Stack Developer.
+Eu transformo código em sistemas que funcionam no mundo real:
+supervisão industrial · IoT · automação · dashboards de dados.
+
+pedro@dev ❯ cat manifesto.txt
+
+▸ Levo código aonde ele raramente chega — do chão de fábrica ao campo.
+▸ Hardware e software na mesma cabeça: fecho a ponte física↔digital
+  que poucos devs dominam.
+▸ Fecho os requisitos antes de arquitetar.
+
+pedro@dev ❯ echo $PHILOSOPHY
+Requisitos → Arquitetura → Código → Mundo real
+
+pedro@dev ❯ echo $MINDSET
+problem-first · ship-fast · zero-hype
 ```
 
 <div align="center"><img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/divider.svg" width="100%" alt="divider" /></div>
@@ -267,28 +263,24 @@ Programas de **apoio à fiscalização** e análise de conformidade tributária 
   <img src="https://img.shields.io/badge/◆-0d1117?style=flat-square&labelColor=0d1117" height="16"/>
 </h2>
 
-```
-┌─ FORMAÇÃO ──────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  ▸  2024 — hoje    Pós-graduação em Ciência de Dados        · UTFPR         │
-│  ▸  2019 — 2023    Bacharelado em Engenharia Mecatrônica    · Ap. Carvalho  │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+```ansi
+FORMAÇÃO ─────────────────────────────────────────────────────
 
-┌─ CERTIFICAÇÕES ─────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  📜  Cambridge KET B1 — English Proficiency                                 │
-│  📜  Especialização em Automação Industrial                                 │
-│  📜  Curso de Extensão em Sistemas Embarcados                               │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+  2024 — hoje    Pós-graduação em Ciência de Dados    · UTFPR
+  2019 — 2023    Bacharelado em Eng. Mecatrônica       · Ap. Carvalho
 
-┌─ IDIOMAS ───────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  🇧🇷 Português  ████████████████████  nativo                                 │
-│  🇺🇸 Inglês     █████████████░░░░░░░  B1 · Cambridge KET                     │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+
+CERTIFICAÇÕES ────────────────────────────────────────────────
+
+  •  Cambridge KET B1 — English Proficiency
+  •  Especialização em Automação Industrial
+  •  Curso de Extensão em Sistemas Embarcados
+
+
+IDIOMAS ──────────────────────────────────────────────────────
+
+  Português   ████████████████████   nativo
+  Inglês      █████████████░░░░░░░    B1 · Cambridge KET
 ```
 
 <div align="center"><img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/divider.svg" width="100%" alt="divider" /></div>
