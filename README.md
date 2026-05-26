@@ -60,65 +60,9 @@
 </h2>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="225">
 
-**`// linguagens`**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css&theme=dark&perline=5" height="44" />
-<br/>
-<sub>Python · JavaScript · C/C++ · HTML · CSS</sub>
+<img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/stack.svg" width="100%" alt="Stack: linguagens · web & back-end · dados & ciência · dev & infra · iot · embarcados · automação" />
 
-</td>
-<td align="center" width="225">
-
-**`// web & back-end`**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,supabase,firebase,mongodb,postgres&theme=dark&perline=6" height="44" />
-<br/>
-<sub>React · Node.js · Supabase · Firebase · MongoDB · SQL</sub>
-
-</td>
-<td align="center" width="225">
-
-**`// dados & ciência`**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="44" />
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=3ECF8E" height="44"/>
-<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=3ECF8E" height="44"/>
-<br/>
-<sub>Python · Pandas · NumPy · Jupyter · Excel</sub>
-
-</td>
-<td align="center" width="225">
-
-**`// dev & infra`**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,linux,bootstrap&theme=dark&perline=3" height="44" />
-<br/>
-<sub>Git · Linux · Bootstrap · jQuery</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="4">
-
-**`// iot · embarcados · automação`**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="44" />
-<img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=3ECF8E" height="44"/>
-<img src="https://img.shields.io/badge/LoRa-0d1117?style=for-the-badge&logoColor=3ECF8E" height="44"/>
-<img src="https://img.shields.io/badge/MQTT-0d1117?style=for-the-badge&logo=mqtt&logoColor=3ECF8E" height="44"/>
-<img src="https://img.shields.io/badge/ThingsBoard-0d1117?style=for-the-badge&logo=thingsboard&logoColor=3ECF8E" height="44"/>
-<img src="https://img.shields.io/badge/RS485-0d1117?style=for-the-badge&logoColor=3ECF8E" height="44"/>
-<img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=3ECF8E" height="44"/>
-<br/>
-<sub>Arduino · ESP32 · LoRa · MQTT · ThingsBoard · RS485 · n8n</sub>
-
-</td>
-</tr>
-</table>
 </div>
 
 <details align="center">

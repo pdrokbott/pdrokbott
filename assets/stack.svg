@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" fill="none" role="img" aria-label="Stack: linguagens, web e back-end, dados e ciencia, dev e infra, iot embarcados e automacao">
+  <defs>
+    <linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#0b1120"/>
+      <stop offset="55%" stop-color="#0d1b2a"/>
+      <stop offset="100%" stop-color="#07231c"/>
+    </linearGradient>
+    <linearGradient id="sem" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3ECF8E"/>
+      <stop offset="100%" stop-color="#2bb673"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#3ECF8E" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#3ECF8E" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#3ECF8E" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="scard"><rect x="0" y="0" width="900" height="380" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#scard)">
+    <rect width="900" height="380" fill="url(#sbg)"/>
+
+    <!-- header -->
+    <text x="24" y="40" font-family="Fira Code, monospace" font-size="14" fill="#3ECF8E">$ pedro --stack</text>
+    <text x="876" y="40" text-anchor="end" font-family="Fira Code, monospace" font-size="12" fill="#5b7083"># 30+ ferramentas · 0 hype</text>
+    <line x1="24" y1="58" x2="876" y2="58" stroke="#1f5d44" stroke-width="1.2"/>
+
+    <!-- ===== row 1 · linguagens ===== -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.2s" dur="0.5s" fill="freeze"/>
+      <circle cx="16" cy="88" r="3" fill="#3ECF8E"/>
+      <text x="26" y="92" font-family="Fira Code, monospace" font-weight="700" font-size="12.5" fill="#3ECF8E">// linguagens</text>
+      <g font-family="Fira Code, monospace" font-size="13" fill="#dbe4ee">
+        <rect x="200" y="71" width="75"  height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="237" y="92.5" text-anchor="middle">Python</text>
+        <rect x="285" y="71" width="106" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="338" y="92.5" text-anchor="middle">JavaScript</text>
+        <rect x="401" y="71" width="67"  height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="434" y="92.5" text-anchor="middle">C/C++</text>
+        <rect x="478" y="71" width="59"  height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="507" y="92.5" text-anchor="middle">HTML</text>
+        <rect x="547" y="71" width="51"  height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="572" y="92.5" text-anchor="middle">CSS</text>
+      </g>
+    </g>
+
+    <!-- ===== row 2 · web & back-end ===== -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.35s" dur="0.5s" fill="freeze"/>
+      <circle cx="16" cy="148" r="3" fill="#3ECF8E"/>
+      <text x="26" y="152" font-family="Fira Code, monospace" font-weight="700" font-size="12.5" fill="#3ECF8E">// web &amp; back</text>
+      <g font-family="Fira Code, monospace" font-size="13" fill="#dbe4ee">
+        <rect x="200" y="131" width="67" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="233" y="152.5" text-anchor="middle">React</text>
+        <rect x="277" y="131" width="83" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="318" y="152.5" text-anchor="middle">Node.js</text>
+        <rect x="370" y="131" width="90" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="415" y="152.5" text-anchor="middle">Supabase</text>
+        <rect x="470" y="131" width="90" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="515" y="152.5" text-anchor="middle">Firebase</text>
+        <rect x="570" y="131" width="83" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="611" y="152.5" text-anchor="middle">MongoDB</text>
+        <rect x="663" y="131" width="51" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="688" y="152.5" text-anchor="middle">SQL</text>
+      </g>
+    </g>
+
+    <!-- ===== row 3 · dados & ciência ===== -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.5s" dur="0.5s" fill="freeze"/>
+      <circle cx="16" cy="208" r="3" fill="#3ECF8E"/>
+      <text x="26" y="212" font-family="Fira Code, monospace" font-weight="700" font-size="12.5" fill="#3ECF8E">// dados</text>
+      <g font-family="Fira Code, monospace" font-size="13" fill="#dbe4ee">
+        <rect x="200" y="191" width="75" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="237" y="212.5" text-anchor="middle">Python</text>
+        <rect x="285" y="191" width="75" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="322" y="212.5" text-anchor="middle">Pandas</text>
+        <rect x="370" y="191" width="67" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="403" y="212.5" text-anchor="middle">NumPy</text>
+        <rect x="447" y="191" width="83" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="488" y="212.5" text-anchor="middle">Jupyter</text>
+        <rect x="540" y="191" width="67" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="573" y="212.5" text-anchor="middle">Excel</text>
+      </g>
+    </g>
+
+    <!-- ===== row 4 · iot · embarcados · automação ===== -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.65s" dur="0.5s" fill="freeze"/>
+      <circle cx="16" cy="268" r="3" fill="#3ECF8E"><animate attributeName="r" values="3;4.5;3" dur="2.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+      <text x="26" y="272" font-family="Fira Code, monospace" font-weight="700" font-size="12.5" fill="#3ECF8E">// iot</text>
+      <g font-family="Fira Code, monospace" font-size="13" fill="#dbe4ee">
+        <rect x="200" y="251" width="83"  height="34" rx="7" fill="#0f2a20" stroke="#3ECF8E" stroke-width="1.2"/><text x="241" y="272.5" text-anchor="middle">Arduino</text>
+        <rect x="293" y="251" width="67"  height="34" rx="7" fill="#0f2a20" stroke="#3ECF8E" stroke-width="1.2"/><text x="326" y="272.5" text-anchor="middle">ESP32</text>
+        <rect x="370" y="251" width="59"  height="34" rx="7" fill="#0f2a20" stroke="#3ECF8E" stroke-width="1.2"/><text x="399" y="272.5" text-anchor="middle">LoRa</text>
+        <rect x="439" y="251" width="59"  height="34" rx="7" fill="#0f2a20" stroke="#3ECF8E" stroke-width="1.2"/><text x="468" y="272.5" text-anchor="middle">MQTT</text>
+        <rect x="508" y="251" width="114" height="34" rx="7" fill="#0f2a20" stroke="#3ECF8E" stroke-width="1.2"/><text x="565" y="272.5" text-anchor="middle">ThingsBoard</text>
+        <rect x="632" y="251" width="67"  height="34" rx="7" fill="#0f2a20" stroke="#3ECF8E" stroke-width="1.2"/><text x="665" y="272.5" text-anchor="middle">RS485</text>
+        <rect x="709" y="251" width="51"  height="34" rx="7" fill="#0f2a20" stroke="#3ECF8E" stroke-width="1.2"/><text x="734" y="272.5" text-anchor="middle">n8n</text>
+      </g>
+    </g>
+
+    <!-- ===== row 5 · dev & infra ===== -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.8s" dur="0.5s" fill="freeze"/>
+      <circle cx="16" cy="328" r="3" fill="#3ECF8E"/>
+      <text x="26" y="332" font-family="Fira Code, monospace" font-weight="700" font-size="12.5" fill="#3ECF8E">// dev</text>
+      <g font-family="Fira Code, monospace" font-size="13" fill="#dbe4ee">
+        <rect x="200" y="311" width="51" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="225" y="332.5" text-anchor="middle">Git</text>
+        <rect x="261" y="311" width="67" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="294" y="332.5" text-anchor="middle">Linux</text>
+        <rect x="338" y="311" width="98" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="387" y="332.5" text-anchor="middle">Bootstrap</text>
+        <rect x="446" y="311" width="75" height="34" rx="7" fill="#11203a" stroke="#1f5d44" stroke-width="1.2"/><text x="483" y="332.5" text-anchor="middle">jQuery</text>
+      </g>
+    </g>
+
+    <!-- scan sweep -->
+    <rect x="-80" y="60" width="80" height="296" fill="url(#scan)" opacity="0.12">
+      <animate attributeName="x" values="-80;900" dur="5s" begin="1.6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- bottom accent -->
+    <rect x="0" y="376" width="900" height="4" fill="url(#sem)"/>
+  </g>
+</svg>
