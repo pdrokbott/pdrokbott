@@ -1,16 +1,17 @@
 <!-- ============================================================= -->
-<!--          PEDRO · FULL STACK DEV  —  perfil autoral           -->
+<!--   PEDRO ANTÔNIO OLIVEIRA LEONEL · Eng. Mecatrônico · Dev      -->
 <!-- ============================================================= -->
 
 <!-- ===================== HERO SVG (autoral) ===================== -->
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/hero.svg" alt="Pedro - Full Stack Developer - do campo ao codigo" />
+<img width="100%" src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/hero.svg" alt="Pedro Antonio - Engenheiro Mecatronico e Full Stack - do campo ao codigo" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=pdrokbott&label=Profile%20views&color=3ECF8E&style=for-the-badge" alt="views" />
 <a href="mailto:pedroantoniooliveir@gmail.com"><img src="https://img.shields.io/badge/OPEN%20TO%20WORK-3ECF8E?style=for-the-badge&logo=briefcase&logoColor=white" alt="open to work" /></a>
+<img src="https://img.shields.io/badge/Porto%20Velho%20·%20RO-0d1117?style=for-the-badge&logo=googlemaps&logoColor=3ECF8E" alt="location" />
 
 </div>
 
@@ -20,26 +21,84 @@
 $ pedro --about
 ```
 
-> **🇧🇷 PT** — **Full Stack Developer** e **pecuarista**. Essa combinação me deu algo raro: eu sinto o problema antes de escrever a primeira linha. Por isso **fecho os requisitos antes de arquitetar** — código bonito que resolve o problema errado não vale nada. Entrego de ponta a ponta: do banco ao **PWA offline** que roda no meio do pasto.
+> **🇧🇷 PT** — **Engenheiro Mecatrônico** especializado em **sistemas de supervisão industrial** e **Full Stack Developer**. Eu ligo o mundo físico ao software: sensores, **ESP32/LoRa**, **MQTT** e **ThingsBoard** virando dashboards e decisões. Como também sou pecuarista, sinto o problema antes de escrever a primeira linha — por isso **fecho os requisitos antes de arquitetar**. Do **chão de fábrica** ao **PWA offline** no meio do pasto.
 
-> **🇺🇸 EN** — **Full Stack Developer** and **cattle rancher**. That mix gave me something rare: I feel the problem before writing the first line. I **lock requirements before architecting** — elegant code that solves the wrong problem is worthless. I ship end to end: from the database to an **offline PWA** running in the middle of a field.
+> **🇺🇸 EN** — **Mechatronics Engineer** specialized in **industrial supervisory systems** and **Full Stack Developer**. I bridge the physical world and software: sensors, **ESP32/LoRa**, **MQTT** and **ThingsBoard** turning into dashboards and decisions. Being a rancher too, I feel the problem before writing the first line — so I **lock requirements before architecting**. From the **factory floor** to an **offline PWA** out in the field.
 
 ```
 philosophy  ::  Requisitos → Arquitetura → Código
+domínio     ::  IoT industrial · automação · sistemas embarcados · full stack
 mindset     ::  problem-first · ship-fast · zero-hype
 fuel        ::  ☕ + 🌾
 ```
 
-## `~/` projetos · projects
+## `~/` formação & certificações · education & certs
+
+```
+🎓  Engenharia Mecatrônica — Centro Universitário Aparício Carvalho (Porto Velho/RO) · 2019–2023
+📜  Cambridge KET B1 — English Proficiency
+📜  Especialização em Automação Industrial
+📜  Curso de Extensão em Sistemas Embarcados
+```
+
+## `~/` projetos profissionais · industrial & IoT
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 Sistema Supervisório Industrial
+Monitoramento de máquinas industriais com integração à **Campilar**. Telemetria em tempo real → dashboards de operação.
+
+![ThingsBoard](https://img.shields.io/badge/-ThingsBoard-EE6E73?style=flat-square)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-3ECF8E?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 ESP32 & LoRa
+Comunicação **wireless de sensores** a longa distância para ambientes industriais e de campo.
+
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![LoRa](https://img.shields.io/badge/-LoRa-0082FC?style=flat-square)
+![Sensors](https://img.shields.io/badge/-Sensors-3ECF8E?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Monitoramento de Variáveis Elétricas
+Dashboard e **análise de medidores de energia** — leitura e interpretação de variáveis elétricas.
+
+![Data](https://img.shields.io/badge/-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+![Monitoring](https://img.shields.io/badge/-Monitoring-3ECF8E?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Integração de BD Industrial
+*(colaborativo)* Integração de **sensores e CLPs** a banco de dados para histórico e supervisão.
+
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![CLP](https://img.shields.io/badge/-CLPs-FFCD00?style=flat-square)
+![IoT](https://img.shields.io/badge/-IoT-3ECF8E?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>🤝 Parte do <a href="https://portfolio-tan-ten-22.vercel.app/">portfólio conjunto</a> com <a href="https://github.com/VgavaBR123">Vinicius Gava</a> — projetos de IoT, automação e supervisão industrial.</sub></div>
+
+## `~/` projetos autorais · side products
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🐂 Controle de Gado
-**Cattle Management System**
-
-Gestão de rebanho de verdade, por quem está no campo. Leitura **RFID via Bluetooth**, **sessões de manejo flexíveis** e **PWA offline-first** — porque no pasto não tem 4G.
+Gestão de rebanho com leitura **RFID via Bluetooth**, **sessões de manejo flexíveis** e **PWA offline-first** — porque no pasto não tem 4G.
 
 ![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 ![Offline](https://img.shields.io/badge/-Offline--first-3ECF8E?style=flat-square)
@@ -49,9 +108,7 @@ Gestão de rebanho de verdade, por quem está no campo. Leitura **RFID via Bluet
 <td width="50%" valign="top">
 
 ### 💊 Buscador de Remédios
-**Medicine Price Comparator**
-
-Compara preços de medicamentos (humanos **e** pet) lendo a receita por **OCR**. Da foto ao melhor preço, sem digitação.
+Compara preços de medicamentos (humanos **e** pet) lendo a receita por **OCR**. Da foto ao melhor preço.
 
 ![OCR](https://img.shields.io/badge/-OCR-FF6F00?style=flat-square)
 ![Healthtech](https://img.shields.io/badge/-Healthtech-3ECF8E?style=flat-square)
@@ -63,21 +120,17 @@ Compara preços de medicamentos (humanos **e** pet) lendo a receita por **OCR**.
 <td width="50%" valign="top">
 
 ### 📈 Marketeiro Automatizado
-**Marketing Automation**
-
-CLI que automatiza **posts no Instagram + ads direcionados** para a Smart Print. Marketing que roda sozinho.
+CLI que automatiza **posts no Instagram + ads direcionados**. Marketing que roda sozinho.
 
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
 ![Meta](https://img.shields.io/badge/-Meta%20Ads-0668E1?style=flat-square&logo=meta&logoColor=white)
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧾 Malha Sublimite
-**Tax Compliance Analyzer**
-
-Análise fiscal para o **Simples Nacional**: detecta inconsistências de receita para manter a empresa dentro dos limites legais.
+Análise fiscal para o **Simples Nacional**: detecta inconsistências de receita p/ manter a empresa nos limites legais.
 
 ![Fintech](https://img.shields.io/badge/-Fintech-3ECF8E?style=flat-square)
 ![Data](https://img.shields.io/badge/-Data-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -89,20 +142,34 @@ Análise fiscal para o **Simples Nacional**: detecta inconsistências de receita
 
 ## `~/` stack
 
-<div align="center">
+**Linguagens**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Web & Back-end**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</div>
+**IoT, Embarcados & Automação**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-0082FC?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![ThingsBoard](https://img.shields.io/badge/ThingsBoard-EE6E73?style=for-the-badge)
+![RS485](https://img.shields.io/badge/RS485-444444?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## `~/` github metrics
 
@@ -132,10 +199,11 @@ Análise fiscal para o **Simples Nacional**: detecta inconsistências de receita
 ## `~/` por que me contratar · why hire me
 
 ```diff
-+ 🎯 Foco em problema, não em hype  —  entrego o que o usuário precisa, no prazo
-+ 🧩 Visão de produto              —  penso negócio, fiscal, UX e infra, não só a feature
-+ 🌾 Resiliência de quem é do campo —  autonomia, mão na massa, sem medo de problema difícil
-+ 🚢 Eu envio                      —  produtos reais no ar, não só TODOs
++ 🔌 Hardware + software        —  fecho a ponte física↔digital que poucos devs dominam
++ 🎯 Foco em problema, não hype —  entrego o que o usuário precisa, no prazo
++ 🧩 Visão de produto           —  penso negócio, fiscal, UX e infra, não só a feature
++ 🌾 Resiliência do campo       —  autonomia, mão na massa, sem medo de problema difícil
++ 🚢 Eu envio                   —  produtos reais no ar, não só TODOs
 ```
 
 ## `~/` contato · get in touch
@@ -143,8 +211,10 @@ Análise fiscal para o **Simples Nacional**: detecta inconsistências de receita
 <div align="center">
 
 <a href="mailto:pedroantoniooliveir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://wa.me/5569999914773"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
+<a href="https://www.linkedin.com/in/pedro-ant%C3%B4nio-142167248"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://github.com/pdrokbott"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-<!-- LinkedIn: adicionar depois -> <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> -->
+<a href="https://portfolio-tan-ten-22.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-3ECF8E?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 
 <br/><br/>
 

@@ -83,9 +83,9 @@
       <!-- typed lines revealed by expanding clip -->
       <g font-family="Fira Code, monospace" font-size="13">
         <text x="16" y="52" fill="#3ECF8E">$ whoami</text>
-        <text x="16" y="74" fill="#e6edf3">&gt; Full Stack Developer</text>
-        <text x="16" y="96" fill="#e6edf3">&gt; <tspan fill="#ffbd2e">pecuarista</tspan> &amp; builder</text>
-        <text x="16" y="118" fill="#3ECF8E">$ ship --products _<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
+        <text x="16" y="74" fill="#e6edf3">&gt; Eng. Mecatrônico · Full Stack</text>
+        <text x="16" y="96" fill="#e6edf3">&gt; IoT · <tspan fill="#ffbd2e">automação</tspan> · do campo ao código</text>
+        <text x="16" y="118" fill="#3ECF8E">$ ship --systems _<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
         <clipPath id="type"><rect x="0" y="32" width="0" height="100"><animate attributeName="width" values="0;400" dur="3.2s" begin="0.3s" fill="freeze" calcMode="linear"/></rect></clipPath>
       </g>
     </g>
