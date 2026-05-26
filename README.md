@@ -77,64 +77,6 @@ CIÊNCIA DE DADOS         ██████████████░░░░
 
 <div align="center"><img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/divider.svg" width="100%" alt="divider" /></div>
 
-<!-- ═══════════════════════════ NOW ═══════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/◆-0d1117?style=flat-square&labelColor=0d1117" height="16"/>
-  &nbsp;<samp>~/ NOW</samp>&nbsp;
-  <img src="https://img.shields.io/badge/◆-0d1117?style=flat-square&labelColor=0d1117" height="16"/>
-</h2>
-
-```python
-class PedroAntonio:
-    """O que está rodando agora."""
-
-    role      = "Eng. Mecatrônico + Full Stack Developer"
-    location  = "Porto Velho, Rondônia — Brasil"
-    domains   = ["indústria", "IoT", "automação", "dados", "agro"]
-    edu       = ["Eng. Mecatrônica (Aparício Carvalho · 2019–2023)",
-                 "Pós-grad. Ciência de Dados (UTFPR · em andamento)"]
-    portfolio = "https://portfolio-tan-ten-22.vercel.app/"  # com @VgavaBR123
-
-    projects = {
-        "supervisorio_campilar": {
-            "desc": "Supervisão de máquinas industriais — telemetria em tempo real",
-            "tech": ["ThingsBoard", "MQTT", "IoT"],
-            "status": "🟢 produção",
-        },
-        "esp32_lora": {
-            "desc": "Firmware e comunicação wireless de sensores a longa distância",
-            "tech": ["ESP32", "LoRa", "C/C++"],
-            "status": "🟢 produção",
-        },
-        "energia_monitor": {
-            "desc": "Dashboard e análise de medidores de energia",
-            "tech": ["Python", "Pandas", "Monitoring"],
-            "status": "🟢 produção",
-        },
-        "controle_de_gado": {
-            "desc": "App de gestão — RFID/Bluetooth + PWA offline-first",
-            "tech": ["PWA", "RFID", "Supabase"],
-            "status": "🐂 autoral",
-        },
-        "buscador_remedios": {
-            "desc": "Compara preços de medicamentos (humano + pet) via OCR",
-            "tech": ["OCR", "Healthtech"],
-            "status": "💊 autoral",
-        },
-        "ferramentas_fiscais": {
-            "desc": "Apoio à fiscalização e conformidade tributária",
-            "tech": ["Data", "Compliance", "Fintech"],
-            "status": "🧾 autoral",
-        },
-    }
-
-    def __repr__(self):
-        return "do código ao mundo real — shipping real systems 🚀"
-```
-
-<div align="center"><img src="https://raw.githubusercontent.com/pdrokbott/pdrokbott/main/assets/divider.svg" width="100%" alt="divider" /></div>
-
 <!-- ═══════════════════════════ ARCHITECTURE ═══════════════════════════ -->
 
 <h2 align="center">
